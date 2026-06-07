@@ -1,0 +1,9 @@
+[package]
+name = "dream-cycle"
+version = "0.1.0"
+edition = "2021"
+description = "Agent dream consolidation engine with REM/NREM cycle simulation, memory replay, surreal narrative generation, and nightmare detection"
+license = "MIT"
+repository = "https://github.com/SuperInstance/dream-cycle"
+
+[dependencies]
